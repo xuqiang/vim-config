@@ -1,4 +1,4 @@
-vim-config
-==========
+个人vim配置
 
-vim配置文件
+mail : xq.1990.weihai@gmail.com
+sina weibo：　http://weibo.com/jefferyxu?wvr=5&

@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/data/resys/xuqiang/online/userprofile2/src'
+let g:netrw_dirhist_2='/data/resys/xuqiang/online/userprofile/history/query'
+let g:netrw_dirhist_3='/data/resys/xuqiang/online/userprofile/src'
+let g:netrw_dirhist_4='/data/resys/xuqiang/online/userprofile'
+let g:netrw_dirhist_5='/data/resys/xuqiang/online/userprofile/src'
+let g:netrw_dirhist_6='/data/resys/xuqiang/online/proxy/conf'
+let g:netrw_dirhist_7='/data/resys/xuqiang/work/content-resys/trunk/user/xuqiang/proxy/conf'
